@@ -62,6 +62,7 @@
   "jest": {
     "preset": "react-native"
   },
+  
   "resolutions": {
     "glob": "7.2.0"
   }
