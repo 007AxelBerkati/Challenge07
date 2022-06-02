@@ -42,10 +42,12 @@ export const colors = {
     black: mainColors.black1,
     subtitle: mainColors.grey1,
   },
+
   disable: {
     background: mainColors.grey4,
     text: mainColors.grey5,
   },
+
   lineTextInput: mainColors.blue1,
   loadingBackground: mainColors.black2,
   menuInactive: mainColors.dark2,
